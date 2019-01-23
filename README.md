@@ -5,5 +5,5 @@ Run:
    
 ```bash
 sudo su
-wget -N -P /tmp/ --no-check-certificate https://raw.githubusercontent.com/smarterq/TeanViewerResetID/master/TeamViewerResetID.sh && cd /tmp/ && bash TeamViewerID.sh 
+wget -N -P /tmp/ --no-check-certificate https://raw.githubusercontent.com/smarterq/TeanViewerResetID/master/TeamViewerResetID.sh && cd /tmp/ && bash TeamViewerResetID.sh 
 ```
